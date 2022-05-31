@@ -1,9 +1,9 @@
 ## **Hi there, I'm Dido** :technologist:
 
 [![GitHub followers](https://img.shields.io/github/followers/mokgul?style=social)](https://github.com/mokgul/mokgul)
-[![GitHub User's stars](https://img.shields.io/github/stars/mokgul?style=social)](https://github.com/mokgul/mokgul/mokgul)
+[![GitHub User's stars](https://img.shields.io/github/stars/mokgul?style=social)](https://github.com/mokgul/mokgul)
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://github.com/mokgul/)
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://github.com/mokgul/mokgul)
 
 - 🔭 I’m currently working on getting myself together and doing what I love.
 - :man_student: I’m currently learning C# at SoftUni 
