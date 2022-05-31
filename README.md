@@ -7,7 +7,7 @@
 
 ## If you know you can do better..then do better.
 - 🔭 I’m currently working on getting myself together and doing what I love.
-- :man_student: I’m currently learning C# at SoftUni 
+- :man_student: I’m currently learning C# at @[SoftUni](https://github.com/SoftUni)
 - :mortar_board: Currently a global moderator at @SoftUni Discord Global Community :mortar_board: 
 - ⚡ Fun fact: I love math, coding, drawing, sarcasm :see_no_evil:
 - 💬 Ask me about anything, if available, will gladly help :bulb:
