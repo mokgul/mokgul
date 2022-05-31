@@ -1,6 +1,6 @@
 ## **Hi there, I'm Dido** :technologist:
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://github.com/mokgul)
 
 - 🔭 I’m currently working on getting myself together and doing what I love.
 - :man_student: I’m currently learning C# at SoftUni 
