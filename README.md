@@ -1,9 +1,9 @@
-## **Hi there, I'm Dido** :technologist:
+# Hi there, I'm Dido :technologist:
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mokgul)
+[![Years Badge](https://badges.pufler.dev/years/mokgul)](https://badges.pufler.dev)
 [![GitHub followers](https://img.shields.io/github/followers/mokgul?style=social)](https://github.com/mokgul/mokgul)
 [![GitHub User's stars](https://img.shields.io/github/stars/mokgul?style=social)](https://github.com/mokgul/mokgul)
-
-
 
 - 🔭 I’m currently working on getting myself together and doing what I love.
 - :man_student: I’m currently learning C# at SoftUni 
@@ -13,7 +13,9 @@
 - 📫 Reach me: dian.radoslavov.95@gmail.com
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokgul&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mokgul&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokgul&show_icons=true&theme=tokyonight) 
+
 <!--
 **mokgul/mokgul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
