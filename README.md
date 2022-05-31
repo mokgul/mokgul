@@ -15,7 +15,7 @@
 
 ### Connect with me:
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/dian.radoslavov.95/)
-[![discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discordapp.com/users/Mokgul#4554)
+[![discord](https://img.shields.io/badge/dian.radoslavov-grey?logo=discord&logoColor=white)](https://discordapp.com/users/Mokgul#4554)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dian-radoslavov-65696ab1/)
 [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/mokgul)
 
