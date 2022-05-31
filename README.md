@@ -28,7 +28,8 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokgul&show_icons=true&theme=tokyonight) [![Leetcode Stats](https://leetcard.jacoblin.cool/Mokgul)](https://leetcode.com/Mokgul)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokgul&show_icons=true&theme=tokyonight&width=500&height=194)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Mokgul?theme=nord&width=500&height=194)](https://leetcode.com/Mokgul)
 
 <!--
 **mokgul/mokgul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
