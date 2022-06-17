@@ -2,8 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mokgul)
 [![Years Badge](https://badges.pufler.dev/years/mokgul)](https://badges.pufler.dev)
-[![GitHub followers](https://img.shields.io/github/followers/mokgul?style=social)](https://github.com/mokgul/mokgul)
-[![GitHub User's stars](https://img.shields.io/github/stars/mokgul?style=social)](https://github.com/mokgul/mokgul)
+
 
 ## If you know you can do better..then do better.
 - 🔭 I’m currently working on getting myself together and doing what I love.
