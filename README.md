@@ -1,7 +1,6 @@
 # Hi there, I'm Dido :technologist:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mokgul)
-[![Years Badge](https://badges.pufler.dev/years/mokgul)](https://badges.pufler.dev)
 
 
 ## If you know you can do better..then do better.
