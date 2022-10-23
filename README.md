@@ -25,6 +25,7 @@
 <br>
 
 ---
+![Codewars Banner](https://www.codewars.com/users/Mokgul/badges/large)<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mokgul&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
