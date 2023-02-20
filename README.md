@@ -1,8 +1,9 @@
 # Hi there, I'm Dido :technologist:
 ### Connect with me:
-[![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/dian.radoslavov.95/)
-[![discord](https://img.shields.io/badge/Mokgul-4554-blue?logo=discord&logoColor=white)]()
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dian-radoslavov-65696ab1/)
+[![discord](https://img.shields.io/badge/Mokgul-4554-blue?logo=discord&logoColor=white)]()
+[![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/dian.radoslavov.95/)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mokgul)
 [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/mokgul)
