@@ -3,8 +3,10 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/dian.radoslavov.95/)
 [![discord](https://img.shields.io/badge/Mokgul-4554-blue?logo=discord&logoColor=white)]()
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dian-radoslavov-65696ab1/)
-[![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/mokgul)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mokgul)
+[![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/mokgul)
+[![GitHub](https://img.shields.io/badge/-KaiserDMC-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/KaiserDMC)
 ## If you know you can do better..then do better.
 - 🔭 I’m currently working on getting myself together and doing what I love.
 - :man_student: I’m currently learning C# at @[SoftUni](https://github.com/SoftUni)
@@ -12,6 +14,7 @@
 - ⚡ Fun fact: I love math, coding, drawing, sarcasm :see_no_evil:
 - 💬 Ask me about anything, if available, will gladly help :bulb:
 - 📫 Reach me: dian.radoslavov.95@gmail.com
+
 ---
 
 
