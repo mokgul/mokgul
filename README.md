@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, My name is Dian Radoslavov</h1>
 <h3 align="center">Embrace the glorious mess that you are !</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mokgul&label=Profile%20views&color=0e75b6&style=flat" alt="mokgul" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mokgul&theme=dark_dimmed" alt="mokgul" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mokgul&label=Profile%20views&color=0e75b6&style=flat" alt="mokgul" /> </p>
 
 - 🌱 I’m currently learning **"#mycurrentobsession"**
 - 💬 Ask me about **anything, if available, will gladly help :bulb:**
