@@ -40,7 +40,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/mokgul">
+<a href="https://github.com/mokgul"></a>
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mokgul&theme=nord_dark" height="180em" />
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mokgul&theme=nord_dark" height="180em" />
 </div>
