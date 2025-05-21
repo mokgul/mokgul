@@ -1,9 +1,9 @@
 name: GitHub Metrics
 
 on:
-  schedule: [{ cron: "0 * * * *" }] # runs every hour
-  push: { branches: ["main"] }      # or your default branch
-  workflow_dispatch:                # allows manual run
+  schedule: [{ cron: "0 * * * *" }]  # Runs every hour
+  push: { branches: ["main"] }
+  workflow_dispatch:
 
 jobs:
   github-metrics:
@@ -12,7 +12,11 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # Core sections
           base: header, activity, community, repositories, metadata
+
+          # Plugins
           plugin_lines: yes
           plugin_traffic: yes
           plugin_languages: yes
@@ -21,3 +25,7 @@ jobs:
           plugin_stars: yes
           plugin_followup: yes
           plugin_gists: yes
+          plugin_achievements: yes
+          plugin_activity: yes
+          plugin_leetcode: yes
+          plugin_leetcode.user: mokgul  # 👈 change this to your actual LeetCode username
