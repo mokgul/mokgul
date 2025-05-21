@@ -2,7 +2,17 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=mokgul&theme=nord" alt="mokgul trophies" />
 
- <img src="https://komarev.com/ghpvc/?username=mokgul&label=Profile%20views&color=0e75b6&style=flat" alt="mokgul" />
+<div class="d-flex flex-row gap-2">
+<img src="https://komarev.com/ghpvc/?username=mokgul&label=Profile%20views&color=0e75b6&style=flat" alt="mokgul" />
+ <img src="https://img.shields.io/github/followers/mokgul?style=flat&logo=github" />
+<img src="https://img.shields.io/github/stars/mokgul?style=flat&logo=github" />
+ <img src="https://img.shields.io/github/last-commit/OtakuDevs/EMatrix?style=flat&logo=github" />
+<img src="https://img.shields.io/github/languages/top/OtakuDevs/EMatrix?style=flat&logo=github" />
+ <img src="https://img.shields.io/badge/email-dian.radoslavov.95@gmail.com-blue?style=flat&logo=gmail&logoColor=white" />
+ <img src="https://img.shields.io/badge/OtakuDevs-Website-orange?style=flat&logo=firefox-browser&logoColor=white&link=https://otakudevs.net" />
+</div>
+
+ 
 
  <table>
   <tr>
@@ -75,6 +85,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mokgul&theme=dark&ring=ffd700&fire=ffd700&currStreakLabel=ffd700&sideNums=ffd700&sideLabels=ffd700&dates=ffd700" alt="mokgul streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mokgul&show_icons=true&locale=en&layout=compact&theme=dark&title_color=ffd700&text_color=ffd700" alt="Top Languages" />
 </div>
+
+
+
+
 
 
   
