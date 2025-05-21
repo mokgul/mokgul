@@ -1,35 +1,46 @@
-name: GitHub Metrics
+name: Generate GitHub Metrics
 
 on:
   schedule: [{ cron: "0 * * * *" }]  # Runs every hour
-  push: { branches: ["main"] }
   workflow_dispatch:
 
 jobs:
-  github-metrics:
+  generate_metrics_part1:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate GitHub metrics part 1
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Output file
-          filename: github-metrics.svg
-
-          # General layout configuration
-          config_display: columns
-          config_columns: 2
-          config_order: base.header, base.activity, community, repositories, metadata
-
-          # Core sections
-          base: header, activity, community, repositories, metadata
-
-          # Plugins
-          plugin_lines: yes
-          plugin_traffic: yes
+          filename: metrics_part1.svg
+          base: header,activity
           plugin_languages: yes
-          plugin_languages_colors: github
-          plugin_languages_threshold: 2%
+          plugin_lines: yes
+
+      - name: Upload metrics part 1
+        uses: actions/upload-artifact@v3
+        with:
+          name: metrics-part1
+          path: metrics_part1.svg
+
+  generate_metrics_part2:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub metrics part 2
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics_part2.svg
+          base: community,repositories
           plugin_stars: yes
           plugin_followup: yes
           plugin_gists: yes
+          plugin_stargazers: yes
+
+      - name: Upload metrics part 2
+        uses: actions/upload-artifact@v3
+        with:
+          name: metrics-part2
+          path: metrics_part2.svg
+
+  
