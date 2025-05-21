@@ -1,46 +1,45 @@
 name: Generate GitHub Metrics
 
 on:
-  schedule: [{ cron: "0 * * * *" }]  # Runs every hour
   workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
 
 jobs:
-  generate_metrics_part1:
+  generate_metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate GitHub metrics part 1
+      - name: Generate User Profile Metrics
         uses: lowlighter/metrics@latest
+        id: user_metrics
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics_part1.svg
-          base: header,activity
+          user: your-github-username
+          filename: user_metrics.svg
+          base: header,activity,community
           plugin_languages: yes
           plugin_lines: yes
+          plugin_followup: yes
 
-      - name: Upload metrics part 1
-        uses: actions/upload-artifact@v3
-        with:
-          name: metrics-part1
-          path: metrics_part1.svg
-
-  generate_metrics_part2:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate GitHub metrics part 2
+      - name: Generate Repo Summary Metrics
         uses: lowlighter/metrics@latest
+        id: repo_metrics
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics_part2.svg
-          base: community,repositories
+          repo: your-github-username/your-repo-name
+          filename: repo_metrics.svg
+          base: header,activity,repositories
           plugin_stars: yes
-          plugin_followup: yes
-          plugin_gists: yes
-          plugin_stargazers: yes
+          plugin_forks: yes
 
-      - name: Upload metrics part 2
-        uses: actions/upload-artifact@v3
+      - name: Upload User Metrics Artifact
+        uses: actions/upload-artifact@v2
         with:
-          name: metrics-part2
-          path: metrics_part2.svg
+          name: user-metrics
+          path: user_metrics.svg
 
-  
+      - name: Upload Repo Metrics Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: repo-metrics
+          path: repo_metrics.svg
