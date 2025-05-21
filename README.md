@@ -84,9 +84,7 @@
 
 ### 📊 GitHub Stats:
 
-![Metrics](https://github.com/mokgul/mokgul/blob/main/github-metrics.svg)
-
-
+![Metrics](https://raw.githubusercontent.com/mokgul/mokgul/main/github-metrics.svg)
 
 
 
