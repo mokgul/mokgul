@@ -1,17 +1,14 @@
 <h1 align="center">🎨 A full stack developer who enjoys building clean, focused software with a subtle retro touch.</h1>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mokgul&theme=nord" alt="mokgul trophies" />
-
 <div class="d-flex flex-row gap-2">
- <img src="https://komarev.com/ghpvc/?username=mokgul&label=Profile%20views&color=0e75b6&style=flat" alt="mokgul" />
- <img src="https://img.shields.io/github/followers/mokgul?style=flat&logo=github" />
- <img src="https://img.shields.io/github/stars/mokgul?style=flat&logo=github" />
- <img src="https://img.shields.io/github/last-commit/OtakuDevs/EMatrix?style=flat&logo=github" />
- <img src="https://img.shields.io/github/languages/top/OtakuDevs/EMatrix?style=flat&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=mokgul&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/mokgul?style=flat&logo=github" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/mokgul?style=flat&logo=github" alt="GitHub Stars" /> 
+<img src="https://img.shields.io/badge/Commits-700%2B-blue?style=flat&logo=github" />
+<img src="https://img.shields.io/badge/PRs_Opened-4-informational?style=flat&logo=github" />
+<img src="https://img.shields.io/badge/Issues_Commented-4-success?style=flat&logo=github" />
 </div>
-
- 
-
+<br/>
  <table>
   <tr>
     <td><strong>🔭 Currently working on:</strong></td>
@@ -21,6 +18,7 @@
        <img src="https://avatars.githubusercontent.com/u/110693556?s=200&v=4" alt="Profile Image" width="150" style="border-radius: 8px;" />
      </a>
     </td>
+     
 
   </tr>
   <tr>
@@ -45,39 +43,44 @@
   </tr>
 </table>
 
-   
- ### 🤝 Connect with me:
- <a href="https://linkedin.com/in/dian-radoslavov-65696ab1" target="_blank">
- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
- <a href="https://fb.com/dian.radoslavov.95" target="_blank">
- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
- </a>
- <a href="https://www.hackerrank.com/dian_radoslavov1" target="_blank">
- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
- </a>
- <a href="https://www.leetcode.com/mokgul" target="_blank">
- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
- </a>
- <a href="https://discord.gg/qdaNcJ7Z6r" target="_blank">
- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
- </a>
-
-
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-</p>
-
----
+   <table>
+  <tr>
+    <td rowspan="2" style="padding-right: 20px; vertical-align: top;">
+      <img src="https://leetcode-stats.vercel.app/api?username=Mokgul&theme=dark" alt="LeetCode Stats" />
+    </td>
+    <td style="vertical-align: top; padding-bottom: 10px;">
+      <strong>🤝 Connect with me:</strong><br />
+      <a href="https://linkedin.com/in/dian-radoslavov-65696ab1" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+      </a>
+      <a href="https://fb.com/dian.radoslavov.95" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+      </a>
+      <a href="https://www.hackerrank.com/dian_radoslavov1" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+      </a>
+      <a href="https://www.leetcode.com/mokgul" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+      </a>
+      <a href="https://discord.gg/qdaNcJ7Z6r" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+      <strong>💻 Skills:</strong><br />
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/TSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ### 📊 GitHub Stats:
 
