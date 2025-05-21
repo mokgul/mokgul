@@ -28,4 +28,4 @@ jobs:
           plugin_achievements: yes
           plugin_activity: yes
           plugin_leetcode: yes
-          plugin_leetcode.user: mokgul  # 👈 change this to your actual LeetCode username
+          plugin_leetcode.user: Mokgul  # 👈 change this to your actual LeetCode username
