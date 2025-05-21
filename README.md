@@ -85,9 +85,8 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mokgul/mokgul/main/github-metrics.svg" alt="Metrics" style="max-width: 800px; width: 100%;" />
+  <img src="https://raw.githubusercontent.com/mokgul/mokgul/main/github-metrics.png" alt="Metrics" style="max-width: 100%; height: auto;" />
 </p>
-
 
 <br/>
 
