@@ -17,7 +17,7 @@
        <img src="https://avatars.githubusercontent.com/u/110693556?s=200&v=4" alt="Profile Image" width="150" style="border-radius: 8px;" />
      </a>
     </td>
-    <td><strong>🔭 Currently working on:</strong></td>
+    <td><strong>🔭 Currently project:</strong></td>
     <td><a href="https://github.com/OtakuDevs/EMatrix">EMatrix</a></td>
     <td rowspan="6" style="text-align: center; padding-left: 20px;">
       <a href="https://otakudevs.net/" target="_blank" rel="noopener noreferrer">
