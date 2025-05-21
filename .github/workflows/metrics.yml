@@ -1,45 +1,46 @@
-name: Generate GitHub Metrics
+name: Generate Lowlighter Metrics SVGs
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+    - cron: '0 * * * *'  # every hour, change if needed
+  workflow_dispatch:
 
 jobs:
-  generate_metrics:
+  github-metrics:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate User Profile Metrics
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Languages Activity SVG
         uses: lowlighter/metrics@latest
-        id: user_metrics
+        id: languages
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          user: your-github-username
-          filename: user_metrics.svg
-          base: header,activity,community
+          base: activity, repositories, metadata
           plugin_languages: yes
-          plugin_lines: yes
-          plugin_followup: yes
+          output: languages.svg
 
-      - name: Generate Repo Summary Metrics
+      - name: Generate Basic Account Metrics SVG
         uses: lowlighter/metrics@latest
-        id: repo_metrics
+        id: usermetrics
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          repo: your-github-username/your-repo-name
-          filename: repo_metrics.svg
-          base: header,activity,repositories
+          base: header, community, metadata
+          plugin_lines: yes
+          plugin_traffic: yes
           plugin_stars: yes
-          plugin_forks: yes
+          plugin_followup: yes
+          plugin_gists: yes
+          plugin_achievements: yes
+          plugin_activity: yes
+          output: user_metrics.svg
 
-      - name: Upload User Metrics Artifact
-        uses: actions/upload-artifact@v2
-        with:
-          name: user-metrics
-          path: user_metrics.svg
-
-      - name: Upload Repo Metrics Artifact
-        uses: actions/upload-artifact@v2
-        with:
-          name: repo-metrics
-          path: repo_metrics.svg
+      - name: Commit and push SVG files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add languages.svg user_metrics.svg
+          git commit -m "Update Lowlighter metrics SVGs" || echo "No changes to commit"
+          git push
