@@ -1,46 +1,82 @@
-<h1 align="center">Hi 👋, My name is Dian Radoslavov</h1>
-<h3 align="center">Embrace the glorious mess that you are !</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mokgul&theme=dark_dimmed" alt="mokgul" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mokgul&label=Profile%20views&color=0e75b6&style=flat" alt="mokgul" /> </p>
+<h1 align="center">🎨 A full stack developer who enjoys building clean, focused software with a subtle retro touch.</h1>
 
-- 🌱 I’m currently learning **"#mycurrentobsession"**
-- 💬 Ask me about **anything, if available, will gladly help :bulb:**
-- 📫 How to reach me **dian.radoslavov.95@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/mokgul?tab=repositories**
-- 📄 Know about my experiences **to be implemented**
-- ⚡ Fun fact **I love math, coding, drawing, sarcasm :see_no_evil:**
+<img src="https://github-profile-trophy.vercel.app/?username=mokgul&theme=nord" alt="mokgul trophies" />
 
-<div> <a href="https://www.linkedin.com/in/dian-radoslavov-65696ab1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/mokgul" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:dian.radoslavov.95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
+ <img src="https://komarev.com/ghpvc/?username=mokgul&label=Profile%20views&color=0e75b6&style=flat" alt="mokgul" />
+
+  <!-- Table Section -->
+  <div>
+    <table class="table table-bordered table-sm">
+      <tbody>
+        <tr>
+          <td><strong>🔭 Currently working on:</strong></td>
+          <td><a href="https://github.com/OtakuDevs/EMatrix">EMatrix</a></td>
+        </tr>
+        <tr>
+          <td><strong>🌍 Based in:</strong></td>
+          <td>Pavlikeni, Bulgaria</td>
+        </tr>
+        <tr>
+          <td><strong>⚡ Co-founder of:</strong></td>
+          <td><a href="https://otakudevs.net/">OtakuDevs</a></td>
+        </tr>
+        <tr>
+          <td><strong>✉️ Reach me at:</strong></td>
+          <td>dian.radoslavov.95@gmail.com</td>
+        </tr>
+        <tr>
+          <td><strong>👨‍💻 Projects:</strong></td>
+          <td><a href="https://github.com/mokgul?tab=repositories">My GitHub Repositories</a></td>
+        </tr>
+        <tr>
+          <td><strong>⚡ Fun fact:</strong></td>
+          <td>I love math, coding, drawing, sarcasm 🙈</td>
+        </tr>
+      </tbody>
+    </table>
+
+ ### 🤝 Connect with me:
+ <a href="https://linkedin.com/in/dian-radoslavov-65696ab1" target="_blank">
+ <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+ <a href="https://fb.com/dian.radoslavov.95" target="_blank">
+ <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+ </a>
+ <a href="https://www.hackerrank.com/dian_radoslavov1" target="_blank">
+ <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+ </a>
+ <a href="https://www.leetcode.com/mokgul" target="_blank">
+ <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+ </a>
+ <a href="https://discord.gg/qdaNcJ7Z6r" target="_blank">
+ <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+ </a>
+
+
+### 🛠️ Languages and Tools:
 <p align="left">
-<a href="https://linkedin.com/in/dian-radoslavov-65696ab1" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="dian-radoslavov-65696ab1" height="30" width="40" /></a><a href="https://fb.com/dian.radoslavov.95" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="dian.radoslavov.95" height="30" width="40" /></a><a href="https://discordapp.com/users/642575257407979541" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="https://discordapp.com/users/642575257407979541" height="30" width="40" /></a></p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/microsoft-sql-server-logo.svg" alt="Microsoft Sql Server" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/microsoft_azure-icon.svg" alt="Microsoft Azure" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/dot-net-original-wordmark.svg" alt="Dot Net" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Engines/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokgul&layout=compact&theme=nord" alt=mokgul />
+---
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mokgul&show_icons=true&locale=en&theme=nord" alt="mokgul" /></p>
+### 📊 GitHub Stats:
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/mokgul"></a>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mokgul&theme=nord_dark" height="180em" />
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mokgul&theme=nord_dark" height="180em" />
+<div class="d-flex flex-row">
+  <img src="https://github-readme-stats.vercel.app/api?username=mokgul&show_icons=true&theme=dark&title_color=ffd700&text_color=ffd700&icon_color=ffd700" alt="mokgul stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mokgul&theme=dark&ring=ffd700&fire=ffd700&currStreakLabel=ffd700&sideNums=ffd700&sideLabels=ffd700&dates=ffd700" alt="mokgul streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mokgul&show_icons=true&locale=en&layout=compact&theme=dark&title_color=ffd700&text_color=ffd700" alt="Top Languages" />
 </div>
+
+
+  
+
+
