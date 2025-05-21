@@ -17,8 +17,11 @@
     <td><strong>🔭 Currently working on:</strong></td>
     <td><a href="https://github.com/OtakuDevs/EMatrix">EMatrix</a></td>
     <td rowspan="6" style="text-align: center; padding-left: 20px;">
-      <img src="https://avatars.githubusercontent.com/u/110693556?s=200&v=4" alt="Profile Image" width="150" style="border-radius: 8px;" />
+      <a href="https://otakudevs.net/" target="_blank" rel="noopener noreferrer">
+       <img src="https://avatars.githubusercontent.com/u/110693556?s=200&v=4" alt="Profile Image" width="150" style="border-radius: 8px;" />
+     </a>
     </td>
+
   </tr>
   <tr>
     <td><strong>🌍 Based in:</strong></td>
@@ -78,14 +81,7 @@
 
 ### 📊 GitHub Stats:
 
-<div class="d-flex flex-row">
-  <img src="https://github-readme-stats.vercel.app/api?username=mokgul&show_icons=true&theme=dark&title_color=ffd700&text_color=ffd700&icon_color=ffd700" alt="mokgul stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mokgul&theme=dark&ring=ffd700&fire=ffd700&currStreakLabel=ffd700&sideNums=ffd700&sideLabels=ffd700&dates=ffd700" alt="mokgul streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mokgul&show_icons=true&locale=en&layout=compact&theme=dark&title_color=ffd700&text_color=ffd700" alt="Top Languages" />
-</div>
-
 ![Metrics](https://github.com/mokgul/mokgul/blob/main/github-metrics.svg)
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=mokgul&theme=dark)
 
 
 
