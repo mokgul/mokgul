@@ -87,11 +87,22 @@
   </tr>
 </table>
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mokgul/mokgul/main/github-metrics.png" alt="Metrics" style="max-width: 100%; height: auto;" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/mokgul/mokgul/main/github-metrics.svg" alt="GitHub Metrics" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mokgul&theme=nord" alt="GitHub Streak" /><br />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokgul&layout=compact&theme=nord" alt="Top Languages" />
+     <img src="https://icon.icepanel.io/Technology/svg/Linux.svg" width=150px; height=168px; alt="tt" />
+    </td>
+  </tr>
+</table>
+
+
 
 <br/>
 
