@@ -93,27 +93,15 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=mokgul&show_icons=true&theme=nord" alt="GitHub Stats" />
-     <img src="https://icon.icepanel.io/Technology/svg/Linux.svg" width=150px; height=168px; alt="Linux Logo" />
       <br />
       <img src="https://ghchart.rshah.org/5E81AC/mokgul" alt="GitHub Contribution Chart" />
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=mokgul&theme=nord" alt="GitHub Streak" /><br />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokgul&layout=compact&theme=nord" alt="Top Languages" /><br />
+      <img src="https://icon.icepanel.io/Technology/svg/Linux.svg" width=150px; height=168px; alt="Linux Logo" />
     </td>
   </tr>
 </table>
 
 <br/>
-
-
-
-
-
-
-
-
-
-  
-
-
