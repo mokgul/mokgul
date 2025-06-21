@@ -1,25 +1,16 @@
 <h1 align="center">🎨 A full stack developer who enjoys building clean, focused software with a subtle retro touch.</h1>
-
-<div class="d-flex flex-row gap-2">
-<img src="https://komarev.com/ghpvc/?username=mokgul&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/mokgul?style=flat&logo=github" alt="GitHub Followers" />
-<img src="https://img.shields.io/github/stars/mokgul?style=flat&logo=github" alt="GitHub Stars" /> 
-<img src="https://img.shields.io/badge/Commits-700%2B-blue?style=flat&logo=github" />
-<img src="https://img.shields.io/badge/PRs_Opened-4-informational?style=flat&logo=github" />
-<img src="https://img.shields.io/badge/Issues_Commented-4-success?style=flat&logo=github" />
-</div>
 <br/>
  <table>
   <tr>
    </td>
-     <td rowspan="6" style="text-align: center; padding-left: 20px;">
+     <td rowspan="7" style="text-align: center; padding-left: 20px;">
       <a href="https://otakudevs.net/" target="_blank" rel="noopener noreferrer">
        <img src="https://avatars.githubusercontent.com/u/110693556?s=200&v=4" alt="Profile Image" width="150" style="border-radius: 8px;" />
      </a>
     </td>
     <td><strong>🔭 Current project:</strong></td>
     <td><a href="https://github.com/OtakuDevs/EMatrix">EMatrix</a></td>
-    <td rowspan="6" style="text-align: center; padding-left: 20px;">
+    <td rowspan="7" style="text-align: center; padding-left: 20px;">
       <a href="https://otakudevs.net/" target="_blank" rel="noopener noreferrer">
        <img src="https://avatars.githubusercontent.com/u/110693556?s=200&v=4" alt="Profile Image" width="150" style="border-radius: 8px;" />
      </a>
@@ -43,6 +34,10 @@
   <tr>
     <td><strong>⚡ Fun fact:</strong></td>
     <td>I love math, coding, drawing, sarcasm 🙈</td>
+  </tr>
+  <tr>
+   <td></td>
+   <td><img src="https://komarev.com/ghpvc/?username=mokgul&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></td>
   </tr>
 </table>
 
